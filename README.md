@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sofya Serpinskaya
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: <sofyaserpinskaya@gmail.com> / [telegram](https://t.me/sofyaserpinskaya)
+- 📫 How to reach me: [email](<sofyaserpinskaya@gmail.com>) / [telegram](https://t.me/sofyaserpinskaya)
 
 <!---
 sofyaserpinskaya/sofyaserpinskaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
